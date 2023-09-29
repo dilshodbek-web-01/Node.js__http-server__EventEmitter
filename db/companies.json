@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Najot Ta`lim",
+    "budget": 339500000
+  },
+  {
+    "id": 2,
+    "name": "PDP",
+    "budget": 500100000
+  },
+  {
+    "id": 3,
+    "name": "Colba",
+    "budget": 701400000
+  },
+  {
+    "id": 4,
+    "name": "Macro",
+    "budget": 900000000
+  },
+  {
+    "id": 5,
+    "name": "Milliy Taomlar",
+    "budget": 11000000
+  },
+  {
+    "id": 6,
+    "name": "AL-QURAN",
+    "budget": 34870000
+  },
+  {
+    "id": 7,
+    "name": "IT-House",
+    "budget": 4500000
+  }
+]

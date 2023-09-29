@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Dilshodbek",
+    "budget": 2900000,
+    "password": 12345
+  },
+  {
+    "id": 2,
+    "name": "Lochinbek",
+    "budget": 4700000,
+    "password": 54321
+  },
+  {
+    "id": 3,
+    "name": "Ismoil",
+    "budget": 1810000,
+    "password": 54321
+  },
+  {
+    "id": 4,
+    "name": "Sanjarbek",
+    "budget": 1500000,
+    "password": 12345
+  },
+  {
+    "id": 5,
+    "name": "Mo`minxo`ja",
+    "budget": 90000,
+    "password": 12345
+  },
+  {
+    "id": 6,
+    "name": "Ziyohiddin",
+    "budget": 1500000,
+    "password": 12345
+  }
+]
